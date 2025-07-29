@@ -10,7 +10,7 @@ redis:
 
 app:
   repository: public.ecr.aws/n4q9v7r0/jh-lab2
-  tag: app-v1
+  tag: version2
   replicas: 2
 
 nginx:
